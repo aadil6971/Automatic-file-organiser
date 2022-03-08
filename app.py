@@ -47,4 +47,4 @@ while True:
 			else:
 				shutil.move(file,"others/"+file)
 	del files
-	sleep(15) #if program is using too much memory increae the value of sleep function 
+	sleep(15) #if program is using too much memory increase the value of sleep function 
